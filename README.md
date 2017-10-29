@@ -1,13 +1,16 @@
 ## ReminderPRO
 
-Is an application that allows you to create a reminders list.  with a name for the description of the reminder and the due date.
+Is an application that allows you to create a reminders list.  Includes a description for the reminder and the due date.
 
 ## Basic features:
 1. Create a reminder with description and due date
 2. Delete a reminder
 3. Delete all reminders
-4. It has cookies enables to remember your reminders in your browser
+4. It has cookies enabled to remember your reminders in your browser
 5. It has an alert that pops-up when one of your reminders is due.
+
+Below is the generic create-react-app readme information just for reference.
+
 
 ------------------------------
 
