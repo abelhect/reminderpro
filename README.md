@@ -9,6 +9,8 @@ Is an application that allows you to create a reminders list.  Includes a descri
 4. It has cookies enabled to remember your reminders in your browser
 5. It has an alert that pops-up when one of your reminders is due.
 
+Open the app here: https://abelhect.github.io/reminderpro/
+
 Below is the generic create-react-app readme information just for reference.
 
 
